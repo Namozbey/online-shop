@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/online-shop/static/css/main.ec67d9a2.chunk.css",
+    "main.js": "/online-shop/static/js/main.99d56a2a.chunk.js",
+    "main.js.map": "/online-shop/static/js/main.99d56a2a.chunk.js.map",
+    "runtime-main.js": "/online-shop/static/js/runtime-main.2cb4a143.js",
+    "runtime-main.js.map": "/online-shop/static/js/runtime-main.2cb4a143.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/online-shop/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3688d107.chunk.js": "/online-shop/static/js/2.3688d107.chunk.js",
+    "static/js/2.3688d107.chunk.js.map": "/online-shop/static/js/2.3688d107.chunk.js.map",
+    "static/js/3.39da4b78.chunk.js": "/online-shop/static/js/3.39da4b78.chunk.js",
+    "static/js/3.39da4b78.chunk.js.map": "/online-shop/static/js/3.39da4b78.chunk.js.map",
+    "index.html": "/online-shop/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/online-shop/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ec67d9a2.chunk.css.map": "/online-shop/static/css/main.ec67d9a2.chunk.css.map",
+    "static/js/2.3688d107.chunk.js.LICENSE.txt": "/online-shop/static/js/2.3688d107.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/online-shop/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/logo.d5d8be0a.png": "/online-shop/static/media/logo.d5d8be0a.png",
+    "static/media/style.css": "/online-shop/static/media/untamed-blockchain-potential.da3135ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb4a143.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3688d107.chunk.js",
+    "static/css/main.ec67d9a2.chunk.css",
+    "static/js/main.99d56a2a.chunk.js"
+  ]
+}

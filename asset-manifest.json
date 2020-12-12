@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/online-shop/static/css/main.0e1461f0.chunk.css",
-    "main.js": "/online-shop/static/js/main.7119f2ee.chunk.js",
-    "main.js.map": "/online-shop/static/js/main.7119f2ee.chunk.js.map",
+    "main.js": "/online-shop/static/js/main.a6c50a4c.chunk.js",
+    "main.js.map": "/online-shop/static/js/main.a6c50a4c.chunk.js.map",
     "runtime-main.js": "/online-shop/static/js/runtime-main.cfb5b682.js",
     "runtime-main.js.map": "/online-shop/static/js/runtime-main.cfb5b682.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/online-shop/static/css/2.20aa2d7b.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.20aa2d7b.chunk.css.map": "/online-shop/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.0e1461f0.chunk.css.map": "/online-shop/static/css/main.0e1461f0.chunk.css.map",
     "static/js/2.097c981b.chunk.js.LICENSE.txt": "/online-shop/static/js/2.097c981b.chunk.js.LICENSE.txt",
+    "static/media/Logo.cb63f6f5.png": "/online-shop/static/media/Logo.cb63f6f5.png",
     "static/media/index.css": "/online-shop/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/logo.cb63f6f5.png": "/online-shop/static/media/logo.cb63f6f5.png",
     "static/media/style.css": "/online-shop/static/media/untamed-blockchain-potential.da3135ef.png"
@@ -23,6 +24,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.097c981b.chunk.js",
     "static/css/main.0e1461f0.chunk.css",
-    "static/js/main.7119f2ee.chunk.js"
+    "static/js/main.a6c50a4c.chunk.js"
   ]
 }
